@@ -1,16 +1,20 @@
-# reddit_app
+# Reddit App (Clone)
 
-A new Flutter project.
+<img src="assets/images/download2.png"/>
 
-## Getting Started
+## Built With
 
-This project is a starting point for a Flutter application.
+* [Flutter](https://flutter.dev/)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Login Page (Google Sign In)
+- Register Page (Google Sign Up)
+- HomePage (Community)
+- Community Page
+- Comment Page
+- Mod Page
+- Edit Page
+- Profile Page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Links
+* [My Website](https://mohnd-info.com/)
